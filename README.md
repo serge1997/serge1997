@@ -25,8 +25,9 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-Am currently working on personal project. 
-Project to manage task better and clearly, restaurant software management (online order, Bi dashboard, stock management...)
+Am currently working on personal project. Project to manage task better and clearly, 
+restaurant software management (online order, Bi dashboard, stock management...), software
+for power bi dashboard access control.
 
 
 
