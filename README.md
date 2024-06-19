@@ -1,10 +1,10 @@
-### Hi there 👋
+## Software Developer 👋
 
 <!--
 **serge1997/serge1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## Main Technologies
+### Main Technologies
 
 #### Back end && Projec version management
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -24,6 +24,9 @@
 ### Database && data manipulation
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+Am currently working on personal project. 
+Project to manage task better and clearly, restaurant software management (online order, Bi dashboard, stock management...)
 
 
 
